@@ -1,7 +1,8 @@
 #admin10262
 
 function gettimer {
-  expired=060322
-  ddevice=realme
-  vvendor=RMX3195
+    user="admin10262"
+    type="RMX3095"
+    expired="220316"
+    memberid="3" #0-3
 }
