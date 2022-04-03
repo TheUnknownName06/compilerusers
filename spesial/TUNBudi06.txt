@@ -1,0 +1,8 @@
+function gettimer {
+    user="TUNBudi06" #user
+    termuxnum="1" #info how many user that can login in this user
+    termuxid=( "10238" "" "")
+    type="RMX3195" #model hp
+    #expired="" #tanggal mati
+    memberid="3" #0-3 #mode member
+}
