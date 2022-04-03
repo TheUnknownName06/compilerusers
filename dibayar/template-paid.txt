@@ -1,0 +1,8 @@
+#$pill$termux
+#y-m-d
+function gettimer {
+    user="$pill$termux" #user
+    type="" #model hp
+    expired="" #tanggal mati
+    memberid="" #0-3 #mode member
+}
